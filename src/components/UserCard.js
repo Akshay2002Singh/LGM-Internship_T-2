@@ -5,7 +5,7 @@ const UserCard = ({ email, first_name, last_name, avatar }) => {
             <div className="card">
                 <div className='row'>
                     <div className='col-3 col-s-12'>
-                        <img src={avatar} alt="Avatar" style={{width: "100%"}}style={{height: "100%"}}/>
+                        <img src={avatar} alt="Avatar" style={{width: "100%" , height: "100%"}}/>
                     </div>
                     <div className='col-9 col-s-12'>
                         <div className="container">
