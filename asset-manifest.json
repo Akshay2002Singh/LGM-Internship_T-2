@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LGM-Internship_T-2_using_REACT/static/css/main.f27b88c7.chunk.css",
+    "main.js": "/LGM-Internship_T-2_using_REACT/static/js/main.753e05bb.chunk.js",
+    "main.js.map": "/LGM-Internship_T-2_using_REACT/static/js/main.753e05bb.chunk.js.map",
+    "runtime-main.js": "/LGM-Internship_T-2_using_REACT/static/js/runtime-main.30af2739.js",
+    "runtime-main.js.map": "/LGM-Internship_T-2_using_REACT/static/js/runtime-main.30af2739.js.map",
+    "static/js/2.c9eed928.chunk.js": "/LGM-Internship_T-2_using_REACT/static/js/2.c9eed928.chunk.js",
+    "static/js/2.c9eed928.chunk.js.map": "/LGM-Internship_T-2_using_REACT/static/js/2.c9eed928.chunk.js.map",
+    "static/js/3.347b1cb0.chunk.js": "/LGM-Internship_T-2_using_REACT/static/js/3.347b1cb0.chunk.js",
+    "static/js/3.347b1cb0.chunk.js.map": "/LGM-Internship_T-2_using_REACT/static/js/3.347b1cb0.chunk.js.map",
+    "index.html": "/LGM-Internship_T-2_using_REACT/index.html",
+    "static/css/main.f27b88c7.chunk.css.map": "/LGM-Internship_T-2_using_REACT/static/css/main.f27b88c7.chunk.css.map",
+    "static/js/2.c9eed928.chunk.js.LICENSE.txt": "/LGM-Internship_T-2_using_REACT/static/js/2.c9eed928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30af2739.js",
+    "static/js/2.c9eed928.chunk.js",
+    "static/css/main.f27b88c7.chunk.css",
+    "static/js/main.753e05bb.chunk.js"
+  ]
+}
